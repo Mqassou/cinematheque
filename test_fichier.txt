@@ -1,0 +1,6 @@
+ 
+Film Fincher Acteur Dicaprio FinActeur titanic 2014 120 1
+PersonneAct QASSOU Mohamed 19 7 1994 francais 1
+PersonneAct CRUISE Tom 14 5 1980 americain 1
+PersonneAct dicaprio leonardo 24 8 1990 americain 1
+PersonneRea fincher david 1 8 1950 americain 0
